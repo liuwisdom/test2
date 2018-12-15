@@ -6,6 +6,8 @@ public class hello2 {
 		System.out.println("from server 2");
 		System.out.println("from server 3");
 		System.out.println("from hello2.java 3");
+
+		System.out.println("fr 3e");
 		System.out.println("from hello2.java 33");
 
 				   
